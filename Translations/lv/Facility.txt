@@ -7,21 +7,21 @@ KOPSAPVILKUMS
 Atcelt
 I N V E N T A R S
 SPOŽUMS
-SETTINGI
+IESTATIJUMI
 ATVIENOT
 ATOM BUMBA IR ATCELTA
 ATĻAUJA NEPIEŅEMTA
 BALS ČATS
 INVENTĀRA PĀRLĀDE
-M. SENSITIVITĀTE
+PELES JŪTĪBA
 UZLAUŽ
 PACEĻ...
-Palielinot speles gaišumu <b>padara speles garastāvoklis sliktāku </b>\nPamēģini šo likt cik vien zemu vari.\n<b>Parastais ir ieteiktais.</b>
+Palielinot spēles gaišumu <b>padara spēles garastāvoklis sliktāku </b>\nPamēģini šo likt cik vien zemu vari.\n<b>Parastais iestatijums ir ieteikts.</b>
 [1] ATVERT/AIZVERT DURVIS\n[2] AIZSLĒGT DURVIS*\n\n*Aizslēdzot durvis izmanot īpašas spējas
 DURVIS TIKA AIZSLĒGTAS NO SCP-079
 Pilnekrāna režīms
 Vai esi droš ka gribi iet prom no šī servera?
-Parastās opcijas. Pilns sakarsts ar settingiem is izvelnē.
+Parastās opcijas. Pilns sakarsts ar iestatijumiem is izvelnē.
 GAIDA SPĒLĒTĀJUS
 KOPSAPVILKUMS
 TURPINĀT
